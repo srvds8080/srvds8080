@@ -5,7 +5,8 @@
 - 🤔 Не забываю про безопасность web-приложений
 - ⚡ Открыт к диалогу: 
   - @srvds8080(Telegram)
-  - @srvds@yandex.ru (email)
+  - srvds@yandex.ru (email)
+  - 926О76984О
 ### Мой технологический стек:
 <p>
 <img align="center" alt="react" width="20px" src="https://raw.githubusercontent.com/srvds8080/srvds8080/develop/images/react_original_logo_icon_146374.svg" />
