@@ -6,7 +6,6 @@
 - ⚡ Открыт к диалогу: 
   - @srvds8080(Telegram)
   - srvds@yandex.ru (email)
-  - 9260769840
 ### Мой технологический стек:
 <p>
 <img align="center" alt="react" width="20px" src="https://raw.githubusercontent.com/srvds8080/srvds8080/develop/images/react_original_logo_icon_146374.svg" />
