@@ -2,7 +2,7 @@
 Я Web-разработчик.
 
 ### Мой технологический стек:
-
+<p>
 <img align="center" alt="react" width="20px" src="https://raw.githubusercontent.com/srvds8080/srvds8080/develop/images/react_original_logo_icon_146374.svg" />
 <img align="center" alt="js" width="20px" src="https://raw.githubusercontent.com/srvds8080/srvds8080/develop/images/javascript_original_logo_icon_146455.svg" />
 <img align="center" alt="ts" width="20px" src="https://raw.githubusercontent.com/srvds8080/srvds8080/develop/images/typescript_plain_logo_icon_146316.svg" />
@@ -13,6 +13,6 @@
 <img align="center" alt="mongo" width="20px" src="https://raw.githubusercontent.com/srvds8080/srvds8080/develop/images/mongodb_original_wordmark_logo_icon_146425.svg" />
 <img align="center" alt="nginx" width="20px" src="https://raw.githubusercontent.com/srvds8080/srvds8080/develop/images/nginx_original_logo_icon_146413.svg" />
 <img align="center" alt="webpack" width="20px" src="https://raw.githubusercontent.com/srvds8080/srvds8080/develop/images/webpack_plain_logo_icon_146297.svg" />
-
+</p>
  ### Моя Статистика
 ![Dan Suranov`s GitHub stats](https://github-readme-stats.vercel.app/api?username=srvds8080&count_private=true&show_icons=true&theme=radical&")
