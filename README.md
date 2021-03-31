@@ -29,7 +29,6 @@
 Демонстрация работы приложения: [https://srvds8080.xyz](https://srvds8080.xyz)
 Исходный код: [https://github.com/srvds8080diploma](https://github.com/srvds8080diploma)
 
-========================
 
 > ### Проект ["Turbina"](https://rinata0912.github.io/turbina).
 
@@ -37,7 +36,6 @@
 Демонстрация работы приложения: https://rinata0912.github.io/turbina
 Исходный код: https://github.com/srvds8080/turbina
 
-========================
 
 > ### Проект ["Mesto"](https://srvds8080.github.io/mesto/) (frontend).
 
@@ -47,7 +45,6 @@
 Так же был произведен рефакторинг кода и миграция приложения на React.js. с последующим объединением с backend-частью приложения на Express.js. Выполнена регистрация и авторизация пользователей.
 Исходный код приложения по ссылке: https://github.com/srvds8080/react-mesto-api-full
 
-========================
 
 > ### Проект ["Mesto"](https://github.com/srvds8080/express-mesto) (backend)
 
