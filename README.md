@@ -37,6 +37,7 @@
 Исходный код: https://github.com/srvds8080/turbina
 
 > Проект ["Mesto"](https://srvds8080.github.io/mesto/) (frontend).
+
 Идея проекта предоставить пользователю возможность делиться интересными географическими местами. Использован основной технологический стек: HTML, CSS, JavaScript, WebPack, БЭМ.
 Демонстрация работы приложения: https://srvds8080.github.io/mesto/
 Исходный код: https://github.com/srvds8080/mesto
@@ -44,6 +45,7 @@
 Исходный код приложения по ссылке: https://github.com/srvds8080/react-mesto-api-full
 
 > Проект ["Mesto"](https://github.com/srvds8080/express-mesto) (backend)
+
 Серверное API для frontend-части. Основной технологический стек: Node.Js, Express, MongoDB. Выполнена централизованная обработка ошибок, валидация входящих данных от клиентской части, работа с БД MongoDB.
 Исходный код по ссылке: https://github.com/srvds8080/express-mesto
 ### Мой технологический стек:
